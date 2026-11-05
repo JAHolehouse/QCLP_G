@@ -1,0 +1,2 @@
+:- [qclp_gates/load].
+
